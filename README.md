@@ -41,4 +41,4 @@
 
 
 
-[webdev]: https://github.com/Ivanadhitya/Ivanadhitya
+[webdev]: https://linktr.ee/ivanadhitya
